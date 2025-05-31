@@ -7,7 +7,7 @@ An Analysis of the transfer spending of EPL teams and comparison to trophies won
 - M-Query
 - Data Analysis
 - Data Visualization
-- Football Analysis
+- Football Analytics
 
 ## Analysis
 
