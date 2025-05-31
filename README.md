@@ -31,6 +31,7 @@ Data Types - Money columns are converted from text to whole numbers
 
 ### Data Preparation
 A new column called "Outcome" was created in epl_transfer to display the outcome of the league positions in power query.
+
 ![image](https://github.com/user-attachments/assets/ac1f4c7c-a302-444a-9241-3e46212842ab)
 
 The output:
