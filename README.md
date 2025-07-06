@@ -90,4 +90,16 @@ The report comprises 3 pages
 The financial gap between the big and small teams is fast closing so the advantage they once had is gone. Money won't be enough to guarantee success. Proper scouting and planning are more important than unlimited spending. FSG proves to have the best model for recruitment and this is evidenced by the EPL title win.
 
 
+## About Me
+I am Adedotun Ayodele a Medical Doctor, Data Professional and Sports Enthusiast. I love digging deep in data to create insights. 
+My main domains are healthcare ans sports.
 
+Let’s connect on a deeper level:
+
+Linkedin - https://www.linkedin.com/in/aa-md/
+
+Email - adedotunayodelemd@gmail.com
+
+Youtube - https://www.youtube.com/@medwithcred
+
+Medium - https://medium.com/@adedotunayodelemd
