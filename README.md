@@ -91,8 +91,8 @@ The financial gap between the big and small teams is fast closing so the advanta
 
 
 ## About Me
-I am Adedotun Ayodele a Medical Doctor, Data Professional and Sports Enthusiast. I love digging deep in data to create insights. 
-My main domains are healthcare ans sports.
+I am Adedotun Ayodele a Medical Doctor, Data Professional and Sports Enthusiast. I love digging deep into data to create insights. 
+My main domains are healthcare and sports.
 
 Let’s connect on a deeper level:
 
